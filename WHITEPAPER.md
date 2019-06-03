@@ -308,10 +308,10 @@ security for nodes and light clients.
 ### Governance #################################################################
 
 Distributed public ledgers should have a constitution and a governance system.
-Bitcoin relies on the Bitcoin Foundation and mining to
-coordinate upgrades, but this is a slow process.  Ethereum split into ETH and
-ETC after hard-forking to address TheDAO hack, largely because there was no
-prior social contract nor mechanism for making such decisions.
+Bitcoin relies on mining to coordinate upgrades and this is a slow process.
+Ethereum split into ETH and ETC after hard-forking to address TheDAO hack,
+largely because there was no prior social contract nor mechanism for making such
+decisions.
 
 Validators and delegators on the Cosmos Hub can vote on proposals that can
 change preset parameters of the system automatically (such as the block gas
